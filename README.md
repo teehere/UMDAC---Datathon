@@ -1,9 +1,11 @@
 # UMDAC---Datathon
 
 ## Overview 
-This project addresses a cash flow forecasting and monitoring challenge for a multi-entity, multi-currency business operating across regions. Due to varying billing cycles, customer payment behavior, and routine vendor payments, cash inflows and outflows fluctuate over time, making short-term liquidity visibility critical for finance teams.
+This project addresses a cash flow forecasting and monitoring challenge for a multi-entity, multi-currency business operating across regions. 
 
-The objective is to provide reliable short-term cash flow forecasts, ending cash balance visibility, and early detection of irregular transactions through data analysis, forecasting models, and an interactive dashboard.
+Due to varying billing cycles, customer payment behavior, and routine vendor payments, cash inflows and outflows fluctuate over time. This makes short-term liquidity visibility critical for finance teams.
+
+Thus, the objective is to provide reliable short-term cash flow forecasts, ending cash balance visibility, and early detection of irregular transactions through data analysis, forecasting models, by using an interactive dashboard.
 
 ## Objective
 - Analyze historical cash inflows and outflows across legal entities and categories
@@ -29,3 +31,9 @@ The objective is to provide reliable short-term cash flow forecasts, ending cash
  
 ## Tools
 - Power BI (data cleaning, transforming, and dashboard)
+
+## Sample Dashboard
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/b4271a64-7949-4926-adde-791234a2bb3b" />
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/f3176dd3-aed8-412b-a8a5-208d0d94de23" />
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/2eb6aae9-3974-497e-aab7-379ae86e12ab" />
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/00bb4773-bd38-4760-b285-d981d7a792eb" />
