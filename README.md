@@ -38,3 +38,9 @@ Thus, the objective is to provide reliable short-term cash flow forecasts, endin
 <img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/f3176dd3-aed8-412b-a8a5-208d0d94de23" />
 <img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/2eb6aae9-3974-497e-aab7-379ae86e12ab" />
 <img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/00bb4773-bd38-4760-b285-d981d7a792eb" />
+
+## Pitch Deck
+PitchDeck - [PitchDeck](https://drive.google.com/file/d/1wtgwvdg__GBlYYSswjjAo7hHVhucwQGF/view?usp=sharing)
+
+## Recources
+Dataset   - [Dataset](https://docs.google.com/spreadsheets/d/1-P_QiYc6XGUexUKSDOcAQIWLWEOIfrJD/edit?usp=sharing&ouid=105983344459134937328&rtpof=true&sd=true)
